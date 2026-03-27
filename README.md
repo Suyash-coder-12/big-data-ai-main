@@ -1,4 +1,4 @@
-# Iceberg/Spark/AI Demo
+ # Iceberg/Spark/AI Demo
 
 This project demonstrates an AI-powered analytics platform using Apache Iceberg, Apache Spark, and Spring AI. It allows users to query real estate data using natural language, leveraging an LLM to generate Spark SQL queries against an Iceberg data lake.
 
